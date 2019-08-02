@@ -5,5 +5,6 @@ using namespace std;
 
 int main()
 {
+	int a;
 	printf("I am a good boy!");
 }
