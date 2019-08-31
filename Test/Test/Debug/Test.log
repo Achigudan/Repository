@@ -1,2 +1,3 @@
 ﻿  T.cpp
+c:\users\hp\desktop\vs--git\repository\test\test\t.cpp(10): warning C4101: “ch”: 未引用的局部变量
   Test.vcxproj -> C:\Users\hp\Desktop\VS--Git\Repository\Test\Debug\Test.exe
