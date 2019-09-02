@@ -1,3 +1,4 @@
 ﻿  T.cpp
-c:\users\hp\desktop\vs--git\repository\test\test\t.cpp(10): warning C4101: “ch”: 未引用的局部变量
+c:\users\hp\desktop\vs--git\repository\test\test\t.cpp(19): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: 参见“ctime”的声明
   Test.vcxproj -> C:\Users\hp\Desktop\VS--Git\Repository\Test\Debug\Test.exe
